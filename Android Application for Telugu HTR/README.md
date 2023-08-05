@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+Please install Flutter and Android Studio to create this mobile application
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
